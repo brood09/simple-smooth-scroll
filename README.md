@@ -27,7 +27,7 @@ $('#exampleId').smoothScroll({
 
 ```
 
-you can pass multiple element in smoothScroll function like
+You can pass multiple value in smoothScroll function like
 
 ```
 $('.example a, .exmapleB a, .exmapleC a').smoothScroll();
