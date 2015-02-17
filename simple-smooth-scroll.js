@@ -1,5 +1,5 @@
 (function( $ ){
-   $.fn.smothScroll = function ( options ) {
+   $.fn.smoothScroll = function ( options ) {
 
       var settings = $.extend({
           duration : 500,
